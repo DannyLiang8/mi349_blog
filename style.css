@@ -70,3 +70,14 @@ article {
 #twocolumn {
     background: blue;
 }
+
+.dropdown {
+    background-color: rgb(250, 255, 176);
+    float: right;
+    margin-left: 10px;
+}
+
+#picture {
+    background: green;
+    padding: 10px
+}
