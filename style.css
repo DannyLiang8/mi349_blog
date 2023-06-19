@@ -49,9 +49,10 @@ article {
     position: sticky;
     top: 0;
     display: flex;
-
-
+    justify-content: center;
+    list-style: none;
 }
+
 
 .image {
     position: static;
