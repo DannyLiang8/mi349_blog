@@ -21,6 +21,7 @@ h1 {
 
 p {
     line-height: 1.4em;
+    display: flex;
 }
 
 #blog {
@@ -29,9 +30,36 @@ p {
 
 .blog-post {
     border-bottom: 1px dotted #ccc;
+    display: flex;
+}
+
+.blog-post2 {
+    display:flex
 }
 
 article {
     border-bottom: 1px solid #000;
+    padding: 20px;
+    margin: 20px;
 }
+
+
+.sections {
+    background-color: #dddbac;
+    position: sticky;
+    top: 0;
+    display: flex;
+
+
+}
+
+.image {
+    position: static;
+    padding-left: 4%;
+    height: 100px;
+    width: 100px;
+    float: right;
+    margin-left: 10px;
+}
+
 
