@@ -2,14 +2,17 @@ html {
     background: green;
 }
 
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 40px;
     padding: 40px;
     color: #242424;
     border-top: 10px solid #242424;
-    background: #fff;
+    background: #FFFDD0;
 }
+
+
 
 h1 {
     font-size: 3em;
